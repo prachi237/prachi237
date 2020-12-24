@@ -3,7 +3,7 @@
      👩‍ I'm an a developer/ Cod(H)er💻
       Open source enthusiast ☺️
       📚📖🖋️I am a learner 📚📖🖋️
-- 🔭 I’m currently working on ...I am currently  working on improving my skills 🤖
+- 🔭 I’m currently working on improving my skills 🤖
 - 🌱 I’m currently learning JavaScript, React.js
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with web development and startup ideas
