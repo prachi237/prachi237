@@ -11,6 +11,6 @@
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/prachi-nandi-461641198/)
 - 😄 Pronouns: she / Her👩
 - ⚡ Fun fact: I love to sketch , animal lover, athlete.
-<img src="https://github-readme-stats.vercel.app/api?username=prachi237&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=prachi237&show_icons=true&count_private=true&theme=radical ">
 
 
