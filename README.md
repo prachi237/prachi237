@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-     👩‍ I'm an a developer/ Cod(H)er💻
+     👩‍ I'm an a newbie developer/ Cod(H)er💻
       Open source enthusiast ☺️
       📚📖🖋️I am a learner 📚📖🖋️
 - 🔭 I’m currently working on improving my skills and exploring 🤖
