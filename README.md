@@ -2,9 +2,9 @@
 
      👩‍ I'm an a newbie developer/ Cod(H)er💻
       Open source enthusiast ☺️
-      📚📖🖋️I am a learner 📚📖🖋️
+     
+<img src="https://github.com/prachi237/prachi237/blob/master/Ellipse3.png">
 - 🔭 I’m currently working on improving my skills and exploring 🤖
-- 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with web development and startup ideas
 - 💬 Ask me about Programming , Maths , Chemistry
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/prachi-nandi-461641198/)
