@@ -1,6 +1,6 @@
 
  <h2> Hi there, I am Prachi Nandi </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
- <img align='right' src="https://github.com/prachi237/prachi237/blob/master/Ellipse3.png" width="250">
+ <img align='right' src="https://github.com/prachi237/prachi237/blob/master/img.png" width="250">
   <p> I am a first year UG student from National Institute of Technology Rourkela, pursiong B.Tech in Computer Science and Engineering
   I'm a newbie developer/ Cod(H)er💻  and an  Open source enthusiast.
  <br> Consistently working on improving my skills and learning from my mistakes.</p>
