@@ -7,6 +7,7 @@
  
  - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/prachi-nandi-461641198/)
 <img src="https://github-readme-stats.vercel.app/api?username=prachi237&show_icons=true&count_private=true&theme=radical ">     
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi237&theme=dark&hide_langs_below=1" />
 
 
 
