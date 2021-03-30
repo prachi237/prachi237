@@ -1,7 +1,9 @@
 
  <h2> Hi there, I am Prachi Nandi </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
   <p> I am a first year UG student from National Institute of Technology Rourkela, pursuing B.Tech in Computer Science and Engineering
-  I'm a newbie developer/ Cod(H)er💻  and an  Open source enthusiast.
+  Adept at motivating self and others. I am an Open source enthusiast and passionate about coding, designing and I wish to reach the pinnacle in computing and research field with sheer determination, dedication and hardwork.
+
+In addition I love quantum mechanics, Chemistry and Mathematics have been my all-time favorite subjects since my childhood.
  <br> Consistently working on improving my skills and learning from my mistakes.</p>
  
  - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/prachi-nandi-461641198/)
