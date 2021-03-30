@@ -4,7 +4,7 @@
   Adept at motivating self and others. I am an Open source enthusiast and passionate about coding, designing and I wish to reach the pinnacle in computing and research field with sheer determination, dedication and hardwork.
 
 In addition I love quantum mechanics, Chemistry and Mathematics have been my all-time favorite subjects since my childhood.
- <br> Consistently working on improving my skills and learning from my mistakes.</p>
+ <br> Trying to become better, each and every day</p>
  
  - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/prachi-nandi-461641198/)
 <img src="https://github-readme-stats.vercel.app/api?username=prachi237&show_icons=true&count_private=true&theme=radical ">     
