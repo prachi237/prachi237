@@ -11,5 +11,3 @@ In addition I love quantum mechanics, Chemistry and Mathematics have been my all
 <img src="https://github-readme-stats.vercel.app/api?username=prachi237&show_icons=true&count_private=true&theme=radical ">     
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi237&hide=css,html&theme=tokyonight&layout=compact" />
 </p>
-
-![ViewCount](https://views.whatilearened.today/views/github/prachi237/views.svg)
