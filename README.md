@@ -7,8 +7,9 @@ In addition I love quantum mechanics, Chemistry and Mathematics have been my all
  <br> Trying to become better, each and every day</p>
  
  - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/prachi-nandi-461641198/)
+<p allign="center">
 <img src="https://github-readme-stats.vercel.app/api?username=prachi237&show_icons=true&count_private=true&theme=radical ">     
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi237&theme=dark&hide_langs_below=1" />
-
+</p>
 
 
