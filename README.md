@@ -1,5 +1,5 @@
 
- <h2> Hi there, I am Prachi Nandi </a> <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50"></h2>
+ <h2> Hi there, I am Prachi Nandi </a> </h2>
   <p> I am a first year UG student from National Institute of Technology Rourkela, pursuing B.Tech in Computer Science and Engineering
   Adept at motivating self and others. I am an Open source enthusiast and passionate about coding, designing and I wish to reach the pinnacle in computing and research field with sheer determination, dedication and hardwork.
 
