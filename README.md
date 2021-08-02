@@ -1,9 +1,9 @@
 
  <h2> Hi there, I am Prachi Nandi </a> </h2>
-  <p> I am a first year UG student from National Institute of Technology Rourkela, pursuing B.Tech in Computer Science and Engineering
+  <p> I am a second year UG student from National Institute of Technology Rourkela, pursuing B.Tech in Computer Science and Engineering
   Adept at motivating self and others. I am an Open source enthusiast and passionate about coding, designing and I wish to reach the pinnacle in computing and research field with sheer determination, dedication and hardwork.
 
-In addition I love quantum mechanics, Chemistry and Mathematics have been my all-time favorite subjects since my childhood.
+
  - Currently I am focusing on Competitive programming.
  
  </p>
