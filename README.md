@@ -17,4 +17,4 @@
 * Technology and software
 * Machine learning
 * Books ([goodreads](https://www.goodreads.com/user/show/155288657-prachi-nandi))
-* Art and History
+* Art and History ([Pinterest](https://pin.it/5ONeJKv))
