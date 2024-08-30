@@ -1,10 +1,9 @@
 
  <h2> Hi there, I am Prachi Nandi </a> </h2>
-  <p> I am a final year UG student from National Institute of Technology Rourkela, pursuing B.Tech in Computer Science and Engineering
-  I am passionate about coding, designing, finance and I wish to reach the pinnacle in computing and research field with sheer determination, dedication and hardwork.
-
-
- - Currently I am focusing on Competitive programming and ML.
+  <p> I am currently a software engineer working at Microsoft. I graduated from National Institute of Technology Rourkela, with honours in Computer Science and Engineering.
+ I have been learning quantitative finanace and wish to learn more on real word applications of ML in finance sector. 
+   
+  Not so fun fact about me but I can talk a lot if the conversations revolve around art, books, politics, history or phillosophy.
  
  </p>
  
@@ -17,3 +16,5 @@
 * Chess
 * Books ([goodreads](https://www.goodreads.com/user/show/155288657-prachi-nandi))
 * Art and History ([Pinterest](https://pin.it/5ONeJKv))
+* Random ([write-ups](https://medium.com/@prachinandi))
+
