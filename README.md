@@ -11,10 +11,10 @@
  
  
 
- #### 🧡 &nbsp;&nbsp;My passions
+ #### 🧡 &nbsp;&nbsp;Hobbies
 
 * Chess
-* Books ([goodreads](https://www.goodreads.com/user/show/155288657-prachi-nandi))
+* Books ([Online Book Club](https://forums.onlinebookclub.org/shelves/shelf.php?u=5742471)/[goodreads](https://www.goodreads.com/user/show/155288657-prachi-nandi))
 * Art and History ([Pinterest](https://pin.it/5ONeJKv))
 * Random ([write-ups](https://medium.com/@prachinandi))
 
